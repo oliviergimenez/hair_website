@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Human-Animal Interactions group</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Human-Animal Interactions group</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Polar bear population dynamics</title>
+      <link>/project/polarbear/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/project/polarbear/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ANR MathKinD</title>
+      <link>/project/mathkin/</link>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/project/mathkin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eagle/Infrastruct.</title>
+      <link>/project/eagle/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/eagle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FishTrends</title>
+      <link>/project/fishtrends/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/fishtrends/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ecosocar</title>
+      <link>/project/ecosocar/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/ecosocar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protocols</title>
+      <link>/project/protocols/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/protocols/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ERC-Lynx</title>
+      <link>/project/erclynx/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/project/erclynx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interact</title>
+      <link>/project/interact/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/project/interact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
