@@ -27,7 +27,7 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          personal_token: ${{ secrets.hair-website-deployment }}
+          personal_token: ${{ secrets.HAIR-WEBSITE-DEPLOYMENT }}
           external_repository: oliviergimenez/human-animal-interactions.github.io
           publish_dir: ./public
           publish_branch: master
