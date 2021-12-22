@@ -62,7 +62,10 @@ weight = 30
 <br>
 <br>
 
-<img style="float:right;margin-left:10px;margin-top:15px;" src="/img/imt.jpg"> **Ibouroi Mohamed Thani** <br> :fr: Post-Doc en Biologie de la conservation avec Aurélien Besnard. Mes travaux actuels se focalisent sur la sélection d’habitats et la structuration génétique à une échelle spatiale fine des populations du renard de volant de Livingstone (Pteropus livingstonii) des îles d’Anjouan et Mohéli (Archipel des Comores). <br> :uk: Post-Doc in Conservation biology with Aurélien Besnard. My current works focus on the habitat selection and fine scale population genetic structure of the critically endangered Livingstone’s flying fox (Pteropus livingstonii) from the Anjouan and Mohéli Islands (Comoros Archipelago).
+
+
+<img style="float:right;margin-left:10px;margin-top:15px;" src="/img/jpvacher_small.jpg"> **Jean-Pierre Vacher** <br> :fr: Postdoctorant/Ingénieur de recherche avec Aurélien Besnard et Claude Miaud (2021). Mon projet s'attache à explorer les déterminants paysagers qui favorisent l'utilisation des passages autoroutiers inférieurs par la mésofaune. Ce projet s'inscrit au sein d'une coopération avec VINCI Autoroutes et la LPO France.
+ <br> :uk: Postdoc/research engineer with Aurélien Besnard and Claude Miaud (2021). My project aims at analyzing multi-scale landscape determinants of wildlife crossings along highways in France.This project is carried in collaboration with VINCI Autoroutes and LPO France.
 
 <br>
 
@@ -87,7 +90,7 @@ weight = 30
 
 <br>
 
-<img style="float:right;margin-left:10px;margin-top:15px;" src="/img/pc.jpg"> **Pauline Couet** <br> :fr: Doctorante CIFRE avec Aurélien Besnard. J’utilise la modélisation pour faire le suivi d’une population de grand dauphins (Tursiops truncatus) dans la Manche. <br> :uk: PhD student with Aurelien Besnard (CIFRE). I use modeling to study a population of bottlenose dolphin (Tursiops truncatus) in the English Channel.
+<img style="float:right;margin-left:10px;margin-top:15px;" src="/img/photo_dc.jpg"> **Deborah Coz** <br> :fr: Doctorante avec Raphaël Mathevet et Olivier Gimenez. Formée en sciences humaines et sociales, je m'intéresse aux manières de mieux coexister avec les non-humains et à l'exploration du point de vue animal en géographie, dans une perspective critique. <br> :uk: PhD student supervised by Raphaël Mathevet and Olivier Gimenez. Trained in humanities and social sciences, I adopt a critical perspective to explore ways to better coexist with non-humans as well as reflect on the animal perspective in geography.
 
 <br>
 <br>
@@ -96,7 +99,7 @@ weight = 30
 
 <br>
 
-<img style="float:right;margin-left:10px;margin-top:15px;" src="/img/sr.jpg"> **Sébastien Roques** <br> :fr: Doctorant avec Roger Pradel & Emmanuelle Cam. J’utilise des modèles de capture-recapture pour mieux comprendre le comportement des oiseaux migrateurs durant leurs haltes migratoires. Travail réalisé en collaboration avec Pierre-Yves Henry (MNHN) et David B. Lank (Simon Fraser University). <br> :uk: PhD student with Roger Pradel & Emmanuelle Cam. I’m using capture-recapture models to better understand the behavior of migratory birds during their stopovers. Joint work with Pierre-Yves Henry (MNHN) and David B Lank (Simon Fraser University).
+<img style="float:right;margin-left:10px;margin-top:15px;" src="/img/lisev.jpg"> **Lise Viollat** <br> :fr: Doctorante CIFRE avec Aurélien Besnard et Alexandre Millon. Je cherche à lier dynamique de population et composante individuelle spatiale chez l'Aigle de Bonelli (Aquila fasciata). <br> :uk: PhD student with Aurélien Besnard and Alexandre Millon. I'm working on linking population dynamics and individual spatial components in Bonelli's eagle (Aquila fasciata).
 
 <br>
 
@@ -114,4 +117,73 @@ weight = 30
 
 <br>
 
+<img style="float:left;margin-right:10px;margin-top:15px;" src="/img/maelisk.jpg"> **Maëlis Kervellec** <br> :fr: Doctorante avec Olivier Gimenez, j’étudie l’apport du suivi non-invasif, de l’intégration de données et de la modélisation statistique à la compréhension de l’écologie des populations de grands carnivores (l’ours brun et le lynx boréal). Je travaille en particulier sur les questions de connectivité. <br> :uk: PhD student with Olivier Gimenez, I study the contribution of non-invasive monitoring, data integration and statistical modeling to the understanding of large carnivore populations ecology (brown bear and eurasian lynx). I am focussing on connectivity issues.
+
+
+<br>
+
+<img style="float:right;margin-left:10px;margin-top:15px;" src="/img/marwan.jpg"> **Marwan Naciri** <br> :fr: Doctorant en dynamique de population avec Sarah Cubaynes, Olivier Gimenez et Jon Aars (Institut Polaire Norvégien). J'utilise des modèles statistiques pour étudier la dynamique de population des ours polaires du Svalbard en relation avec le changement climatique. <br> :uk: PhD student with Sarah Cubaynes, Olivier Gimenez and Jon Aars (Norwegian Polar Institute). I use statistical models to study the population dynamics of Svalbard polar bears in relation with climate change. 
+
+
+<br>
+
+<img style="float:left;margin-right:10px;margin-top:15px;" src="/img/mellina.jpg"> **Mellina Sidous** <br> :fr: Je m’intéresse aux relations indirectes qui existent entre lemmings et oiseaux limicoles via leur prédateur commun qu’est le renard polaire dans différents sites d’arctique (Groenland, Sibérie, Alaska et Canada). Plus précisément, j’ai pour but de construire un modèle qui permettrait de comprendre quels sont les paramètres environnementaux qui entraîne le basculement dans une relation de mutualisme apparent (corrélation négative entre les abondances des deux espèces de proies) ou de compétition apparente (corrélation positive entre les abondances des deux espèces de proies) entre lemmings et limicoles. <br> :uk: I am interested in the indirect interaction that exists between lemmings and shorebirds through their common predator, the Arctic fox, in different Arctic sites (Greenland, Siberia, Alaska and Canada). More precisely, I aim to build a model that would allow to understand which environmental parameters lead to a switch between a relationship of apparent mutualism (negative correlation between the abundance of the two prey species) and a relationship of apparent competition (positive correlation between the abundances of the two prey species) between lemmings and shorebirds.
+
+<br>
+
+<img style="float:right;margin-left:10px;margin-top:15px;" src="/img/monia.jpg"> **Mónia Nakamura** <br> :fr: Doctorante à l'Université de Porto (BIOPOLIS/CIBIO-InBIO, Portugal) et à l'Université de Montpellier, avec Olivier Gimenez, Pedro Monterroso et José Vicente López-Bao. Dans le cadre de mon doctorat, j'étudie comment les facteurs anthropiques affectent la démographie des loups, en particulier dans les paysages dominés par l'homme. <br> :uk: PhD student at the University of Porto (BIOPOLIS/CIBIO-InBIO, Portugal) and the University of Montpellier, with Olivier Gimenez, Pedro Monterroso and José Vicente López-Bao. In my PhD I am investigating how anthropogenic factors affect wolf demography, particularly in human-dominated landscapes. 
+
+
+<br>
+
+<img style="float:left;margin-right:10px;margin-top:15px;" src="/img/remif.jpg"> **Rémi Fraysse** <br> :fr: Doctorant avec Roger Pradel et Rémi Choquet, je travaille sur l'adaptation de modèles de capture-recapture aux larves de moustiques. <br> :uk: PhD student with Roger Pradel and Rémi Choquet, I work on the adaptation of capture-recapture models to mosquito larvae.
+
+
+<br>
+
+<br>
+
+<br>
+
+<img style="float:right;margin-left:10px;margin-top:15px;" src="/img/sophied.jpg"> **Sophie Dupont** <br> :fr: Ingénieure de recherche au sein du projet MAPE coordonné par Aurélien Besnard et Olivier Duriez. Plus particulièrement, je co-construis avec des acteurs de divers horizons (ONG, Gouvernement, opérateurs éoliens, bureaux d'étude...) un protocole d'évaluation de la fiabilité des dispositifs de réduction des mortalités aviaires sur les parcs éoliens terrestres. <br> :uk: Research engineer within the MAPE project coordinated by Aurélien Besnard and Olivier Duriez. Specifically, I co-build in partnership with actors from all the area (Government, wind farms’ operators, NGO, engineering offices and so on) a standardized performance protocol to evaluate the efficiency of bird mortality reduction systems on onshore wind farms 
+
+
+<br>
+
+<img style="float:left;margin-right:10px;margin-top:15px;" src="/img/matt.jpg"> **Matthew Silk** <br> :fr: Chargé de recherche MCSA. Je suis un écologiste du comportement et des maladies qui étudie les liens entre la dynamique des populations et la structure sociale en développant de nouveaux modèles de réseaux sociaux et démographiques. <br> :uk: MCSA research fellow. I am a Behavioural and disease ecologist researching the links between population dynamics and social structure by developing new social network and demographic models.
+
+
+<br>
+
+<img style="float:right;margin-left:10px;margin-top:15px;" src="/img/marined.jpg"> **Marine Desprez** <br> :fr: Post-doc avec Olivier Gimenez et Vincent Miele, je m'intéresse au méthodes de machine learning pour des problèmes de classification en écologie. <br> :uk: Post-doc with Olivier Gimenez and Vincent Miele, I am interested in machine learning methods for classification problems in ecology. 
+
+<br>
+
+<br>
+
+<hr>
+
+<br>
+
+Alumni
+
+<br>
+
+<img style="float:right;margin-left:10px;margin-top:15px;" src="/img/imt.jpg"> **Ibouroi Mohamed Thani** <br> :fr: Post-Doc en Biologie de la conservation avec Aurélien Besnard. Mes travaux actuels se focalisent sur la sélection d’habitats et la structuration génétique à une échelle spatiale fine des populations du renard de volant de Livingstone (Pteropus livingstonii) des îles d’Anjouan et Mohéli (Archipel des Comores). <br> :uk: Post-Doc in Conservation biology with Aurélien Besnard. My current works focus on the habitat selection and fine scale population genetic structure of the critically endangered Livingstone’s flying fox (Pteropus livingstonii) from the Anjouan and Mohéli Islands (Comoros Archipelago).
+
+<br>
+
+<img style="float:left;margin-right:10px;margin-top:15px;" src="/img/pc.jpg"> **Pauline Couet** <br> :fr: Doctorante CIFRE avec Aurélien Besnard. J’utilise la modélisation pour faire le suivi d’une population de grand dauphins (Tursiops truncatus) dans la Manche. <br> :uk: PhD student with Aurelien Besnard (CIFRE). I use modeling to study a population of bottlenose dolphin (Tursiops truncatus) in the English Channel.
+
+<br>
+
+<img style="float:right;margin-left:10px;margin-top:15px;" src="/img/sr.jpg"> **Sébastien Roques** <br> :fr: Doctorant avec Roger Pradel & Emmanuelle Cam. J’utilise des modèles de capture-recapture pour mieux comprendre le comportement des oiseaux migrateurs durant leurs haltes migratoires. Travail réalisé en collaboration avec Pierre-Yves Henry (MNHN) et David B. Lank (Simon Fraser University). <br> :uk: PhD student with Roger Pradel & Emmanuelle Cam. I’m using capture-recapture models to better understand the behavior of migratory birds during their stopovers. Joint work with Pierre-Yves Henry (MNHN) and David B Lank (Simon Fraser University).
+
+<br>
+
 <img style="float:left;margin-right:10px;margin-top:15px;" src="/img/ts.jpg"> **Timothée Schwartz** <br> :fr: Doctorant CIFRE avec Aurélien Besnard. Je m’intéresse aux pièges écologiques et cherche à évaluer les dispositifs artificiels utilisés pour la conservation des vertébrés. <br> :uk: PhD student (CIFRE) with Aurélien Besnard. I am interested in ecological traps and focus especially on the evaluation of artificial devices used for the conservation of vertebrates.
+
+
+
+
+
