@@ -86,7 +86,8 @@ weight = 30
 
 <br>
 
-<img style="float:left;margin-right:10px;margin-top:15px;" src="/img/ogr.jpg"> **Oksana Grente** <br> :fr: Doctorante en biologie de la conservation avec Olivier Gimenez. J’utilise les biostatistiques pour tenter d’identifier les effets de la régulation des loups par les tirs, sur les attaques et sur la population de loup en France. <br> :uk: PhD student with Olivier Gimenez. I use biostatistics in order to identify wolf removal effects on wolf attacks and wolf population in France.
+<img style="float:left;margin-right:10px;margin-top:15px;" src="/img/ogr.jpg"> **Oksana Grente** <br> :fr: Post-doctorante avec Aurélien Besnard. Je cherche à développer des modèles de distribution du grand hamster en Alsace, dans le but d'améliorer le protocole de suivi de cette espèce qui est sur le point de s'éteindre en France. Je collabore pour cela avec l'OFB. <br> :uk: Post-doc with Aurélien Besnard. I seek to develop distribution models of the European hamster in Alsace, in order to improve the monitoring of this species that is on the brink of extinction in France. I also work with the French Biodiversity Agency.
+
 
 <br>
 
@@ -183,6 +184,9 @@ Alumni
 
 <img style="float:left;margin-right:10px;margin-top:15px;" src="/img/ts.jpg"> **Timothée Schwartz** <br> :fr: Doctorant CIFRE avec Aurélien Besnard. Je m’intéresse aux pièges écologiques et cherche à évaluer les dispositifs artificiels utilisés pour la conservation des vertébrés. <br> :uk: PhD student (CIFRE) with Aurélien Besnard. I am interested in ecological traps and focus especially on the evaluation of artificial devices used for the conservation of vertebrates.
 
+<br>
+
+<img style="float:right;margin-left:10px;margin-top:15px;" src="/img/ogr.jpg"> **Oksana Grente** <br> :fr: Doctorante en biologie de la conservation avec Olivier Gimenez. J’utilise les biostatistiques pour tenter d’identifier les effets de la régulation des loups par les tirs, sur les attaques et sur la population de loup en France. <br> :uk: PhD student with Olivier Gimenez. I use biostatistics in order to identify wolf removal effects on wolf attacks and wolf population in France.
 
 
 
