@@ -20,7 +20,7 @@ weight = 30
 <br>
 <br>
 
-<img style="float:left;margin-right:10px;margin-top:15px;" src="/img/nl.jpg"> **Nicolas Lescureux** <br> :fr: Ethnoécologue, je m'intéresse aux savoirs locaux sur les animaux. Je m'intéresse à la manière dont les savoirs sont construits en interaction avec les animaux et comment les pratiques humaines peuvent influencer l'écologie et le comportement des animaux, notamment dans le contexte des interactions entre humains et grands prédateurs dans les pays en transition (Asie Centrale et Balkans). <br> :uk: I am an ethnoecologist working on local knowledge about animal. My work has been focused on the way knowledge is built in interaction with animals and how human practices can influence animal ecology and behaviour, notably in the context of human - large carnivores interactions in countries in transition (Central Asia and Balkans). Last but not least, one of my most friendly face...
+<img style="float:left;margin-right:10px;margin-top:15px;" src="/img/nl.jpg"> **Nicolas Lescureux** <br> :fr: Ethnoécologue, je m'intéresse aux savoirs locaux sur les animaux. Je m'intéresse à la manière dont les savoirs sont construits en interaction avec les animaux et comment les pratiques humaines peuvent influencer l'écologie et le comportement des animaux, notamment dans le contexte des interactions entre humains et grands prédateurs dans les pays en transition (Asie Centrale et Balkans). <br> :uk: I am an ethnoecologist working on local knowledge about animal. My work has been focused on the way knowledge is built in interaction with animals and how human practices can influence animal ecology and behaviour, notably in the context of human - large carnivores interactions in countries in transition (Central Asia and Balkans).
 
 <br>
 
@@ -62,13 +62,6 @@ weight = 30
 <br>
 <br>
 
-
-
-<img style="float:right;margin-left:10px;margin-top:15px;" src="/img/jpvacher_small.jpg"> **Jean-Pierre Vacher** <br> :fr: Postdoctorant/Ingénieur de recherche avec Aurélien Besnard et Claude Miaud (2021). Mon projet s'attache à explorer les déterminants paysagers qui favorisent l'utilisation des passages autoroutiers inférieurs par la mésofaune. Ce projet s'inscrit au sein d'une coopération avec VINCI Autoroutes et la LPO France.
- <br> :uk: Postdoc/research engineer with Aurélien Besnard and Claude Miaud (2021). My project aims at analyzing multi-scale landscape determinants of wildlife crossings along highways in France.This project is carried in collaboration with VINCI Autoroutes and LPO France.
-
-<br>
-
 <img style="float:left;margin-right:10px;margin-top:15px;" src="/img/ac.jpg"> **Alix Cosquer** <br> :fr: Post-doctorante avec Olivier Gimenez. Psychologie environnementale; thématique de recherche : évolution des relations humain/nature et articulation des enjeux sociaux /environnementaux. Projet de recherche en cours autour des rapports des enfants à la nature dans le cadre scolaire (projet SIRENE). <br> :uk: Postdoc with Olivier Gimenez. Environmental psychology; research topic : evolution of human/nature relations and environmental/social issues. Ongoing research project on children's relationships with nature in schools (SIRENE project).
 
 <br>
@@ -77,16 +70,17 @@ weight = 30
 
 <br>
 
-<img style="float:left;margin-right:10px;margin-top:15px;" src="/img/vl.jpg"> **Valentin Lauret** <br> :fr: Doctorant en sciences de la conservation avec Olivier Gimenez. Je combine modélisation en écologie et dimensions humaines pour étudier les suivis des cétacés à l’échelle de la Méditerranée française. <br> :uk: PhD student with Olivier Gimenez. I link ecological modeling and human dimensions to study cetacean monitoring across the french Mediterranean sea.
+
+<img style="float:left;margin-right:10px;margin-top:15px;" src="/img/vl.jpg"> **Valentin Lauret** <br> :fr: Post-Doctorant du projet Migralion. Je travaille avec Aurélien Besnard pour développer des outils statistiques permettant de combiner différents méthodes de suivis écologiques (e.g. télémétrie, comptages, baguages) pour étudier la migration de l'avifaune dans le Golfe du Lion. <br> :uk: Post-doc working on the Migralion project. I'm working with Aurélien Besnard to develop statistical tools that integrate multiple monitoring methods (e.g. telemetry, counts, ringing programs) studying bird migration in the Gulf of Lion (NW Mediterranean Sea).
 
 <br>
 <br>
 
-<img style="float:right;margin-left:10px;margin-top:15px;" src="/img/mq.jpg"> **Maud Quéroué** <br> :fr: Doctorante avec Olivier Gimenez. Je développe des modèles de démographie multi-espèces pour étudier les interactions interspécifiques dans les communautés d’oiseaux. Je suis aussi encadrée par Christophe Barbraud et Pierre-Yves Henry. <br> :uk: PhD student with Olivier Gimenez. I’m developing multispecies demographic models to study interspecific interactions in bird communities. This is a joint work with Christophe Barbraud and Pierre-Yves Henry.
+<img style="float:right;margin-left:10px;margin-top:15px;" src="/img/mq.jpg"> **Maud Quéroué** <br> :fr: Post-doctorante avec Aurélien Besnard et Matthieu Authier. Je développe un cadre méthodologique visant à estimer les paramètres d’intercalibration permettant la comparabilité des observations visuelles historiques de la mégafaune marine (oiseaux et mammifères marins) à partir d’aéronefs et des nouvelles enquêtes de surveillance numérique aérienne. <br> :uk: Post-doc with Aurélien Besnard and Matthieu Authier. I’m developping a methodological framework to estimate inter-calibration parameters allowing the comparability of historical visual observations of marine megafauna (birds and marine mammals) from aircraft and new digital aerial surveys.
 
 <br>
 
-<img style="float:left;margin-right:10px;margin-top:15px;" src="/img/ogr.jpg"> **Oksana Grente** <br> :fr: Post-doctorante avec Aurélien Besnard. Je cherche à développer des modèles de distribution du grand hamster en Alsace, dans le but d'améliorer le protocole de suivi de cette espèce qui est sur le point de s'éteindre en France. Je collabore pour cela avec l'OFB. <br> :uk: Post-doc with Aurélien Besnard. I seek to develop distribution models of the European hamster in Alsace, in order to improve the monitoring of this species that is on the brink of extinction in France. I also work with the French Biodiversity Agency.
+<img style="float:left;margin-right:10px;margin-top:15px;" src="/img/ogr.jpg"> **Oksana Grente** <br> :fr: Post-doctorante/Ingénieure de recherche avec Aurélien Besnard. Je cherche à développer des modèles de distribution du grand hamster en Alsace, dans le but d'améliorer le protocole de suivi de cette espèce qui est sur le point de s'éteindre en France. Je collabore pour cela avec l'OFB. <br> :uk: Post-doc/Research engineer with Aurélien Besnard. I seek to develop distribution models of the European hamster in Alsace, in order to improve the monitoring of this species that is on the brink of extinction in France. I also work with the French Biodiversity Agency.
 
 
 <br>
@@ -96,7 +90,7 @@ weight = 30
 <br>
 <br>
 
-<img style="float:left;margin-right:10px;margin-top:15px;" src="/img/cc.jpg"> **Coline Canonne** <br> :fr: Doctorante bourse ONCFS avec Aurélien Besnard. Je cherche à caractériser la dynamique de population des galliformes de montagne (en France) pour déterminer les menaces qui pèsent le plus sur ces populations. <br> :uk: PhD student with Aurelien Besnard (ONCFS). I work on understanding population dynamics of mountains galliforms (in France) to determine what are the main threats for these populations.
+<img style="float:left;margin-right:10px;margin-top:15px;" src="/img/cc.jpg"> **Coline Canonne** <br> :fr: Post-doctorante/Ingénieure de recherche avec Aurélien Besnard et l'OFB. L'objectif de mon projet est de valoriser au mieux les données de comptages des oiseaux nichant dans les prairies de fauche récoltées dans le cadre du suivi à long-terme de l'ONEPF (Observatoire National de l'Écosystème Prairie de Fauche). <br> :uk: Post-doc with Aurelien Besnard and the French Office for Biodiversity. The objective of my project is to make the best use of the count data on birds breeding in hay meadows collected as part of the long-term monitoring of the ONEPF (Observatoire National de l'Écosystème Prairie de Fauche).
 
 <br>
 
@@ -108,7 +102,7 @@ weight = 30
 
 <br>
 
-<img style="float:right;margin-left:10px;margin-top:15px;" src="/img/ah.jpg"> **Arzhela Hemery** <br> :fr: Ingénieure d’étude - Délocalisée dans les Hautes Alpes pour travailler sur les aigles royaux avec Aurélien Besnard. <br> :uk: Research engineer, studying golden eagles in the Alps with Aurélien Besnard. 
+<img style="float:right;margin-left:10px;margin-top:15px;" src="/img/ah.jpg"> **Arzhela Hemery** <br> :fr: Doctorante avec Aurélien Besnard, Olivier Duriez et Pierre-Yves Henry. Je travaille sur la mise au point d'un modèle en 3D de prévision du risque de collision avec les infrastructures aériennes pour les grands planeurs avec l'Aigle royal comme exemple. <br> :uk: PhD. student with Aurélien Besnard, Olivier Duriez and Pierre-Yves Henry. I am working on the development of a 3D model to predict the risk of collision with aerial infrastructures for large gliders with the golden eagle as an example. 
 
 <br>
 
@@ -162,6 +156,14 @@ weight = 30
 
 <br>
 
+<br>
+
+<img style="float:left;margin-right:10px;margin-top:15px;" src="/img/patriciar.jpg"> **Patrícia Rodrigues** <br> :fr: Post-doc avec Olivier Gimenez. Dans mes recherches, je m'intéresse particulièrement aux dynamiques socio-écologiques qui sous-tendent les problèmes environnementaux en Afrique. Mon projet actuel vise à caractériser les paysages de la Grande Muraille Verte d'Afrique en termes de propriétés socio-écologiques et d'initiatives de restauration. <br> :uk: Postdoc with Olivier Gimenez. In my research, I am particularly interested in the social-ecological dynamics underpinning environmental problems in Africa. My current project aims to characterize landscapes within Africa’s Great Green Wall in terms of their social-ecological properties and restoration initiatives.
+
+<br>
+
+<br>
+
 <hr>
 
 <br>
@@ -188,6 +190,28 @@ Alumni
 
 <img style="float:right;margin-left:10px;margin-top:15px;" src="/img/ogr.jpg"> **Oksana Grente** <br> :fr: Doctorante en biologie de la conservation avec Olivier Gimenez. J’utilise les biostatistiques pour tenter d’identifier les effets de la régulation des loups par les tirs, sur les attaques et sur la population de loup en France. <br> :uk: PhD student with Olivier Gimenez. I use biostatistics in order to identify wolf removal effects on wolf attacks and wolf population in France.
 
+<br>
 
+<img style="float:left;margin-right:10px;margin-top:15px;" src="/img/cc.jpg"> **Coline Canonne** <br> :fr: Doctorante bourse ONCFS avec Aurélien Besnard. Je cherche à caractériser la dynamique de population des galliformes de montagne (en France) pour déterminer les menaces qui pèsent le plus sur ces populations. <br> :uk: PhD student with Aurelien Besnard (ONCFS). I work on understanding population dynamics of mountains galliforms (in France) to determine what are the main threats for these populations.
+
+<br>
+
+<img style="float:right;margin-left:10px;margin-top:15px;" src="/img/vl.jpg"> **Valentin Lauret** <br> :fr: Doctorant en sciences de la conservation avec Olivier Gimenez. Je combine modélisation en écologie et dimensions humaines pour étudier les suivis des cétacés à l’échelle de la Méditerranée française. <br> :uk: PhD student with Olivier Gimenez. I link ecological modeling and human dimensions to study cetacean monitoring across the french Mediterranean sea.
+
+<br>
+
+<img style="float:left;margin-right:10px;margin-top:15px;" src="/img/mq.jpg"> **Maud Quéroué** <br> :fr: Doctorante avec Olivier Gimenez. Je développe des modèles de démographie multi-espèces pour étudier les interactions interspécifiques dans les communautés d’oiseaux. Je suis aussi encadrée par Christophe Barbraud et Pierre-Yves Henry. <br> :uk: PhD student with Olivier Gimenez. I’m developing multispecies demographic models to study interspecific interactions in bird communities. This is a joint work with Christophe Barbraud and Pierre-Yves Henry.
+
+<br>
+
+<img style="float:right;margin-left:10px;margin-top:15px;" src="/img/ah.jpg"> **Arzhela Hemery** <br> :fr: Ingénieure d’étude - Délocalisée dans les Hautes Alpes pour travailler sur les aigles royaux avec Aurélien Besnard. <br> :uk: Research engineer, studying golden eagles in the Alps with Aurélien Besnard. 
+
+<br>
+<br>
+<br>
+<br>
+
+<img style="float:left;margin-right:10px;margin-top:15px;" src="/img/jpvacher_small.jpg"> **Jean-Pierre Vacher** <br> :fr: Postdoctorant/Ingénieur de recherche avec Aurélien Besnard et Claude Miaud (2021). Mon projet s'attache à explorer les déterminants paysagers qui favorisent l'utilisation des passages autoroutiers inférieurs par la mésofaune. Ce projet s'inscrit au sein d'une coopération avec VINCI Autoroutes et la LPO France.
+ <br> :uk: Postdoc/research engineer with Aurélien Besnard and Claude Miaud (2021). My project aims at analyzing multi-scale landscape determinants of wildlife crossings along highways in France.This project is carried in collaboration with VINCI Autoroutes and LPO France.
 
 
