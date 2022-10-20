@@ -164,9 +164,12 @@ weight = 30
 
 <br>
 
-<hr>
+<img style="float:right;margin-left:10px;margin-top:15px;" src="/img/tch.JPG"> **Thierry Chambert** <br> :fr: Postdoc avec Aurélien Besnard. Modélisation, méthodes d’estimation, dynamique de population. J'étudie l’impact des éoliennes sur les populations d’oiseaux. <br> :uk: Postdoc with Aurélien Besnard. Modeling, estimation methods, population dynamics.
+I study the impact of wind energy on bird populations.
 
 <br>
+
+<hr>
 
 Alumni
 
