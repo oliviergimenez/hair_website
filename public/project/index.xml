@@ -6,10 +6,19 @@
     <description>Recent content in Projects on Human-Animal Interactions group</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Oct 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Wind energy &amp; Biodiversity</title>
+      <link>/project/windfarm/</link>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/project/windfarm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Polar bear population dynamics</title>

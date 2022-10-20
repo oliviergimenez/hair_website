@@ -1,0 +1,144 @@
+---
+title: "Outils Eolien/Biodiversité créés par le CEFE"
+author: "Thierry Chambert, Aurélien Besnard, Julie Fluhr, Olivier Duriez"
+output: html_document
+---
+
+<br>
+
+Cette page regroupe l'ensemble des outils (applications R-Shiny) qui ont été créés par le CEFE dans le cadre des travaux sur les conflits entre éolien et biodiversité.
+
+This page aggregates all the tools (R-Shiny applications) created by the CEFE-CNRS in their work on conflicts between wind energy and biodiversity.
+<br>
+
+***
+
+ Outil        | Fonction
+------------- | -------------
+[EolPop (FR)](https://shiny.cefe.cnrs.fr/eolpop/)         | Impact démographique des collisions
+[EolPop (EN)](https://shiny.cefe.cnrs.fr/en_eolpop/)      | Demographic impact of collisions
+[EolPower](https://shiny.cefe.cnrs.fr/eolpower/)     | Evaluation et calibrage des suivis de mortalités (prise décision)
+[EolDist (FR)](https://shiny.cefe.cnrs.fr/eoldist/)       | Distances minimales de détection (systèmes de détection-réaction)
+[EolDist (EN)](https://shiny.cefe.cnrs.fr/en_eoldist/)    | Minimum detection distances (detection-reaction devices)
+[EolApp](https://shiny.cefe.cnrs.fr/eolapp/)      | Estimation mortalités avec intervalle de confiance
+[Eol2App](https://shiny.cefe.cnrs.fr/eol2app/)    | Préparation d'un suivi de suivi de mortalités (précision attendue)
+
+***
+
+### **EolPop** (version en français)
+
+EolPop est un outil permettant de quantifier l'impact démographique des mortalités directes (collisions avec les éoliennes et barotraumatisme) sur une population d'oiseaux ou de chiroptères.
+
+L’objectif de l’application eolpop est de prédire l’impact démographique des mortalités aviaires causées par les collisions avec les éoliennes. A partir du nombre de mortalités individuelles (données d’entrées), l’outil permet de quantifier, à partir d’un modèle de projections démographiques, l’impact (sortie de l’outil) sur les populations d’oiseaux. Cette quantification de l’impact à l’échelle de la population servira à mieux renseigner les études d’impacts portant sur le développement de parcs éoliens et donc à appuyer les décisions qui s’y rapportent.
+
+<br>
+
+EolPop est accessible en ligne : <https://shiny.cefe.cnrs.fr/eolpop/>
+<br>
+
+Pour installer EolPop en local : [instructions (french)](https://mape.cnrs.fr/wp-content/uploads/2022/10/FR_Instructions-pour-telecharger-les-fichiers-EolPop-en-local.pdf)
+
+<br>
+
+
+##### *Documentation EolPop*
+[Guide utilisateur](https://mape.cnrs.fr/wp-content/uploads/2022/02/1.-Guide-Utilisateur-eolpop-MAPE.pdf)
+
+[Guide de recommandations pour délimiter une population](https://mape.cnrs.fr/wp-content/uploads/2022/02/2.-Comment-delimiter-une-population-MAPE.pdf)
+
+[Document technique EolPop](https://mape.cnrs.fr/wp-content/uploads/2022/02/3.-Eolpop-document-technique-MAPE.pdf) (description du modèle démographique, hypothèses)
+
+[Guide pour la méthode d’élicitation d’experts](https://mape.cnrs.fr/wp-content/uploads/2022/02/4.-Description-de-la-methode-delicitation-dexperts-MAPE.pdf)
+
+[Description de méthode utilisée pour obtenir les valeurs de paramètres démographiques pour chaque espèce](https://mape.cnrs.fr/wp-content/uploads/2022/02/5.-Description-de-la-methode-utilisee-pour-obtenir-les-valeurs-de-parametres-demographiques-pour-chaque-espece-MAPE.pdf)
+
+<br>
+
+##### [Atelier démonstration EolPop (lien vers vidéo)](https://youtu.be/fDQGAolEiRI)
+
+***
+
+### **EolPop** (english version)
+
+EolPop is a tool to quantify  the demographic impact of fatalities (collisions with to wind turbines and barotrauma) on a population of birds or bats.
+
+EolPop can be accessed online : <https://shiny.cefe.cnrs.fr/en_eolpop/>
+
+To install EolPop on your computer : [instructions (english)](https://mape.cnrs.fr/wp-content/uploads/2022/10/EN_Instructions-to-download-EolPop-files-on-your-computer.pdf)
+
+[User guide](https://mape.cnrs.fr/wp-content/uploads/2022/06/User-Guide-Eolpop.pdf)
+<br>
+
+***
+
+### **EolPower** (version en français)
+
+EolPower est un outil d'optimisation de l'effort requis dans les suivis de mortalités. Il peut être utiliser pour deux objectifs :  
+
+(1) évaluer le niveau de précision fournit par un protocole de suivi existant. Plus précisément, le module « Evaluer un suivi existant » permet de calculer la probabilité d'être en-dessous d'un certain seuil de mortalités, à partir d'un effort de suivi donné. 
+
+(2) calibrer un nouveau protocole de suivi. Plus précisément, le module « Planifier un nouveau suivi » permet de déterminer l'effort de suivi requis (fréquence de passages, etc.) pour atteindre un niveau de précision souhaité.
+
+EolPower est accessible ici : <https://shiny.cefe.cnrs.fr/eolpower/>
+
+[User guide]() : bientôt disponible
+
+[Atelier démonstration EolPower](https://youtu.be/eLPLhvMNqd4)
+<br>
+
+***
+
+### **EolPower**  (english version)
+
+Coming soon.
+
+<br>
+
+***
+
+
+### **EolDist** (version en français)
+
+EolDist a pour objectif de déterminer les distances minimales de détection (par les systèmes de détection-réaction) de 163 espèces d’oiseaux en fonction de différents paramètres dont le contexte de vol et les caractéristiques des turbines, de façon à réduire les risques de collision dans les parcs éoliens.
+
+EolDist est accessible ici : <https://shiny.cefe.cnrs.fr/eoldist/>
+
+[Guide utilisateur](https://mape.cnrs.fr/wp-content/uploads/2022/02/Guide-utilisateurs-eoldist-MAPE.pdf)
+<br>
+
+***
+
+### **EolDist** (english version)
+
+EolDist allows determining the minimum detection distances (by detection-reaction devices) of 163 bird species according to different parameters such as the flight context and the characteristics of the turbines, in order to reduce the risks of collision in wind farms.
+
+EolDist can be accessed here : <https://shiny.cefe.cnrs.fr/en_eoldist/>
+
+[User guide](https://mape.cnrs.fr/wp-content/uploads/2022/03/User-guide-eoldist-MAPE.pdf)
+<br>
+
+***
+
+### **EolApp** et **Eol2App** 
+
+EolApp permet d’obtenir les intervalles de confiance à 95% des estimations de mortalité obtenues dans le cadre des suivis sous les éoliennes.
+
+EolApp est accessible ici : <https://shiny.cefe.cnrs.fr/eolapp/>
+
+<br>
+
+Eol2App permet de préparer son suivi de mortalités liées aux éoliennes. Cet outil simule un grand nombre de fois, les résultats d’un suivi à partir des informations fournies par l’utilisateur et fournit ainsi la distribution des estimations de mortalités. Cela permet de regarder la variabilité des estimations qui peuvent être obtenues dans le cas de ce suivi et donc d’anticiper sur la précision des estimations.
+
+Eol2App est accessible ici : <https://shiny.cefe.cnrs.fr/eol2app/>
+
+<br>
+
+##### *Documentation EolApp et Eol2App*
+
+[Manuel d'utilisation](https://shiny.cefe.cnrs.fr/eolapp/manuel_shiny.pdf)
+
+[Présentation sur l'estimation des mortalités](https://shiny.cefe.cnrs.fr/eolapp/estimations_de_mortalites.pdf)
+
+<br>
+
+***
