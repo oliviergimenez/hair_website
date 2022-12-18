@@ -122,7 +122,7 @@ weight = 30
 
 <br>
 
-<img style="float:left;margin-right:10px;margin-top:15px;" src="/img/mellina.jpg"> **Mellina Sidous** <br> :fr: Je m’intéresse aux relations indirectes qui existent entre lemmings et oiseaux limicoles via leur prédateur commun qu’est le renard polaire dans différents sites d’arctique (Groenland, Sibérie, Alaska et Canada). Plus précisément, j’ai pour but de construire un modèle qui permettrait de comprendre quels sont les paramètres environnementaux qui entraîne le basculement dans une relation de mutualisme apparent (corrélation négative entre les abondances des deux espèces de proies) ou de compétition apparente (corrélation positive entre les abondances des deux espèces de proies) entre lemmings et limicoles. <br> :uk: I am interested in the indirect interaction that exists between lemmings and shorebirds through their common predator, the Arctic fox, in different Arctic sites (Greenland, Siberia, Alaska and Canada). More precisely, I aim to build a model that would allow to understand which environmental parameters lead to a switch between a relationship of apparent mutualism (negative correlation between the abundance of the two prey species) and a relationship of apparent competition (positive correlation between the abundances of the two prey species) between lemmings and shorebirds.
+<img style="float:left;margin-right:10px;margin-top:15px;" src="/img/mellina.jpg"> **Mellina Sidous** <br> :fr: Doctorante avec Sarah Cubaynes et Loic Bollache (Chrono-environnement). J’étudie l’effet de perturbations environnementales causées par l’homme sur la structure de communauté de charognards en général, ainsi que sur les interactions de charognards opportunistes au sein de leur niveau trophique (lion-hyène) et avec leurs proies (hyène-herbivore). <br> :uk: PhD student with Sarah Cubaynes and Loic Bollache (Chrono-environnement). I study the effect of human-induced environmental perturbations on the community structure of scavengers in general, and on opportunist scavengers’ interactions within their trophic level (lion-hyena) and with their prey (hyena-herbivore).
 
 <br>
 
@@ -169,7 +169,22 @@ I study the impact of wind energy on bird populations.
 
 <br>
 
+<br>
+
+<img style="float:left;margin-right:10px;margin-top:15px;" src="/img/charlene-gemard.jpg"> **Charlène Gémard** <br> :fr: Postdoctorante du projet MAPE (Mortalité Aviaire dans les Parcs Eoliens en Exploitation) avec Aurélien Besnard et Olivier Duriez. Je m’intéresse aux conditions et aux facteurs (techniques, météos, caractéristiques des oiseaux…) pouvant favoriser les collisions et les comportements de vol à risque à proximité des éoliennes. <br> :uk: Post-doc on the MAPE project (French acronym for bird fatalities in operating wind farms) with Aurélien Besnard and Olivier Duriez. I aim to highlight particular situations and factors (technical features, weather, bird characteristics…) that may enhance collisions and risky flight behaviors.
+
+<br>
+
+<br>
+
+<img style="float:right;margin-left:10px;margin-top:15px;" src="/img/killian-gregory.jpg"> **Killian Grégory** <br> :fr: Doctorant avec Aurélien Besnard et Pierre-André Crochet. Je suis intéressé par les relations entre comportement, cognition, et dynamique à l’échelle des populations. Ma thèse porte sur l’importance de l’information publique et privée, leur acquisition et leur utilisation, dans la sélection du site de reproduction chez des Laridés coloniaux. <br> :uk: PhD student with Aurélien Besnard and Pierre-André Crochet. I am particularly interested in the relationships between behaviour, cognition, and population-level dynamics. Currently working on the importance of public and private information, its acquisition and use, in the selection of breeding sites in colonial Larids.
+
+
+
+<br>
+
 <hr>
+
 
 Alumni
 
