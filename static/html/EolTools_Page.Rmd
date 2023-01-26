@@ -81,7 +81,7 @@ EolPower est un outil d'optimisation de l'effort requis dans les suivis de morta
 
 EolPower est accessible ici : <https://shiny.cefe.cnrs.fr/eolpower/>
 
-[User guide]() : bientôt disponible
+[Guide utilisateur](https://shiny.cefe.cnrs.fr/eolpower/Guide_Utilisateur_EolPower.pdf)
 
 [Atelier démonstration EolPower](https://youtu.be/eLPLhvMNqd4)
 <br>
